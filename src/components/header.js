@@ -1,8 +1,7 @@
 import React from 'react'
-function Header(){
+ let Header=()=> 
     
-    return (
-    <div>
+        <div>
             <div className="row">
                 <div className="col-md-1">
                     <div className="header-item1">Lorem ipsum dolor sit amet, consectetur adi</div>
@@ -14,8 +13,8 @@ function Header(){
                     <div className="header-item3">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestiae ullam numquam repellendus voluptate nulla veritatis aliquid, perspiciatis sunt molestias, ut beatae quaerat non quae laboriosam aspernatur qui voluptates, consequatur autem.</div>
                 </div>
             </div>
-    </div>
-    )
-}
+        </div>
+    
+ 
 
 export default Header
