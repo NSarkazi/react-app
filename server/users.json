@@ -1,5 +1,6 @@
 
- [ 
+ {
+  "posts":[
     {
         "id": 1,
         "name": "number one",
@@ -13,28 +14,7 @@
     {
         "id": 3,
         "name": "number three",
-        "link":"http://www.iconfinder2.com"
+        "link": "http://www.iconfinder2.com"
     }
-];
-
-
-//  {
-//    "posts": [
-//     {
-//         "id": 1,
-//         "firstname": "Ivan",
-//         "surname": "Ivanov"
-//     },
-//     {
-//         "id": 2,
-//         "firstname": "Petr",
-//         "surname": "Petrov"
-//     },
-//     {
-//         "id": 3,
-//         "firstname": "Alex",
-//         "surname": "Sidorov"
-//     }
-//  ]
-
+  ]
  }
